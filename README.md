@@ -23,4 +23,5 @@ Reusable: User-defined functions may be reused inside or outside of the program.
 
 Possible Improvements:
 1. Add an option for user to enter values into the card dictionaries or add option for user to access specific dictionaries and values using keys.
-2. Not sure if all the biology content is correct, had to look it up. 
+2. Not sure if all the biology content is correct, had to look it up.
+3. I do not think the card dictionaries are indexed correctly, should start at value = 1 instead of value = 2.
